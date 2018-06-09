@@ -3,10 +3,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "http://davidmontaño.com"
 
 # Title of your site
-title = "Academic"
+title = "David Alberto Montaño Fetecua"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -20,7 +20,7 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "damontic"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -54,20 +54,23 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "David Alberto Montaño Fetecua"
+  role = "DevOps / SRE / Project Manager"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [
+	{ name = "S4N", url = "http://s4n.co" },
+	{ name = "Universidad Nacional de Colombia", url = "https://sites.google.com/site/unalso2012/" }
+  ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "avatar.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "damontic@gmail.com"
+  address = ""
+  office_hours = "Email for appointment"
+  phone = "+57 305 7040348"
+  skype = "damontic"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -162,7 +165,7 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = [ "override.css" ]
   custom_js  = []
 
   # Publication types.
@@ -226,22 +229,22 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:damontic@gmail.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/damontic"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://co.linkedin.com/in/david-alberto-monta%C3%B1o-fetecua-80112961"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/damontic"
 
 
 # Navigation Links
