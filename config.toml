@@ -47,7 +47,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "forest"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -60,8 +60,8 @@ enableGitInfo = false
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [
-	{ name = "S4N", url = "http://s4n.co" },
-	{ name = "Universidad Nacional de Colombia", url = "https://sites.google.com/site/unalso2012/" }
+	 { name = "S4N", url = "http://s4n.co" },
+	 { name = "Universidad Nacional de Colombia", url = "https://sites.google.com/site/unalso2012/" }
   ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
