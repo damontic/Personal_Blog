@@ -260,11 +260,11 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-# [[menu.main]]
-#   name = "Publications"
-#   url = "#publications_selected"
-#   weight = 2
-# 
+ [[menu.main]]
+   name = "Publications"
+   url = "#publications_selected"
+   weight = 2
+ 
 # [[menu.main]]
 #   name = "Posts"
 #   url = "#posts"
@@ -285,6 +285,66 @@ enableGitInfo = false
    url = "#contact"
  weight = 6
 
+ [[Languages.es.menu.main]]
+  name = "Principal"
+  url = "#about"
+  weight = 1
+
+ [[Languages.es.menu.main]]
+   name = "Publicaciones"
+   url = "#publications_selected"
+   weight = 2
+ 
+# [[Languages.es.menu.main]]
+#   name = "Entradas"
+#   url = "#posts"
+#   weight = 3
+# 
+# [[Languages.es.menu.main]]
+#   name = "Proyectos"
+#   url = "#projects"
+#   weight = 4
+# 
+# [[Languages.es.menu.main]]
+#   name = "Clases"
+#   url = "#teaching"
+#   weight = 5
+ 
+ [[Languages.es.menu.main]]
+   name = "Contacto"
+   url = "#contact"
+ weight = 6
+
+ [[Languages.fr.menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
+
+ [[Languages.fr.menu.main]]
+   name = "Publications"
+   url = "#publications_selected"
+   weight = 2
+ 
+# [[Languages.fr.menu.main]]
+#   name = "Articles"
+#   url = "#posts"
+#   weight = 3
+# 
+# [[Languages.fr.menu.main]]
+#   name = "Projets"
+#   url = "#projects"
+#   weight = 4
+# 
+# [[Languages.fr.menu.main]]
+#   name = "Enseignement"
+#   url = "#teaching"
+#   weight = 5
+ 
+ [[Languages.fr.menu.main]]
+   name = "Contact"
+   url = "#contact"
+ weight = 6
+
 # Taxonomies.
 [taxonomies]
   tag = "tags"
@@ -297,3 +357,11 @@ enableGitInfo = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
+
+# Configure the Spanish version of the website.
+[Languages.es]
+  languageCode = "es-co"
+
+# Configure the French version of the website.
+[Languages.fr]
+  languageCode = "fr-fr"
