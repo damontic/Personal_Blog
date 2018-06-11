@@ -68,7 +68,7 @@ enableGitInfo = false
   avatar = "avatar.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "damontic@gmail.com"
   address = ""
-  office_hours = "Email for appointment"
+  office_hours = ""
   phone = "+57 305 7040348"
   skype = "damontic"
   telegram = ""
@@ -262,7 +262,7 @@ enableGitInfo = false
 
  [[menu.main]]
    name = "Publications"
-   url = "#publications_selected"
+   url = "#publications"
    weight = 2
  
 # [[menu.main]]
@@ -279,11 +279,16 @@ enableGitInfo = false
 #   name = "Teaching"
 #   url = "#teaching"
 #   weight = 5
+
+ [[menu.main]]
+   name = "Talks"
+   url = "#talks"
+   weight = 6
  
  [[menu.main]]
    name = "Contact"
    url = "#contact"
- weight = 6
+ weight = 7
 
  [[Languages.es.menu.main]]
   name = "Principal"
@@ -292,7 +297,7 @@ enableGitInfo = false
 
  [[Languages.es.menu.main]]
    name = "Publicaciones"
-   url = "#publications_selected"
+   url = "#publications"
    weight = 2
  
 # [[Languages.es.menu.main]]
@@ -311,9 +316,15 @@ enableGitInfo = false
 #   weight = 5
  
  [[Languages.es.menu.main]]
+   name = "Presentaciones"
+   url = "#talks"
+   weight = 6
+
+ [[Languages.es.menu.main]]
    name = "Contacto"
    url = "#contact"
- weight = 6
+   weight = 7
+
 
  [[Languages.fr.menu.main]]
   name = "Home"
@@ -322,7 +333,7 @@ enableGitInfo = false
 
  [[Languages.fr.menu.main]]
    name = "Publications"
-   url = "#publications_selected"
+   url = "#publications"
    weight = 2
  
 # [[Languages.fr.menu.main]]
@@ -341,9 +352,14 @@ enableGitInfo = false
 #   weight = 5
  
  [[Languages.fr.menu.main]]
+   name = "Présentations"
+   url = "#talks"
+   weight = 6
+
+ [[Languages.fr.menu.main]]
    name = "Contact"
    url = "#contact"
- weight = 6
+   weight = 7
 
 # Taxonomies.
 [taxonomies]

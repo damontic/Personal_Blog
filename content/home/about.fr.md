@@ -28,7 +28,7 @@ weight = 5
  
 +++
 
-# Biography
+# À propos
 
 David Alberto Montaño Fetecua est un DevOps/SRE à [S4N](http://s4n.co). Grace a son éxperience comme [professeur de Systémes d'Éxploitation](https://sites.google.com/site/unalso2012) à [l'Université Nationale de la Colombie](http://unal.edu.co/), il est devenu passionné par [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.fr.html) et la programation. Actuellement il automatise plusieurs "software pipelines" pour faciliter le déploiement des diverses applications dans une diversité d'environments "on-premise" et "cloud".
 

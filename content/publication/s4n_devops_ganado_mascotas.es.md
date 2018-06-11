@@ -1,5 +1,5 @@
 +++
-title = "DevOps at S4N"
+title = "DevOps en S4N"
 date = 2017-12-12T13:58:51-05:00
 draft = false
 
@@ -18,12 +18,12 @@ authors = ["Natalia Parrado", "Leonardo Arturo Quiñonez", "David Alberto Monta�
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Culture and processes: Adopting DEVOPS AT S4N"
-publication_short = "DEVOPS AT S4N"
+publication = "Cultura y procesos: un enfoque a la adopción de DEVOPS EN S4N"
+publication_short = "DEVOPS EN S4N"
 
 # Abstract and optional shortened version.
-abstract = "To keep up in an always changing environment, companies need DevOps. By adopting this culture, its practices and tools, they will produce better software products, deploy faster in a continuous and secure way and obtain quicker results."
-abstract_short = "Companies need DevOps."
+abstract = "Para mantenerse vigente y competente en un entorno tan cambiante como el actual, las empresas necesitan DevOps. La adopción de esta cultura, sus prácticas y herramientas les permitirá mejorar la calidad del producto de software, hacer despliegues de forma continua y segura, y obtener resultados más rápidamente."
+abstract_short = "Las empresas necesitan DevOps."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -70,11 +70,11 @@ caption = "Cover"
 
 +++
 
-To keep up in an always changing environment, companies need DevOps. By adopting this culture, its practices and tools, they will produce better software products, deploy faster in a continuous and secure way and obtain quicker results.
+Para mantenerse vigente y competente en un entorno tan cambiante como el actual, las empresas necesitan DevOps. La adopción de esta cultura, sus prácticas y herramientas les permitirá mejorar la calidad del producto de software, hacer despliegues de forma continua y segura, y obtener resultados más rápidamente.
 
-Download "Culture and processes: Adopting DEVOPS AT [S4N](http://s4n.co)" to read about:
+Descargue "Cultura y procesos: un enfoque a la adopción de DevOps en [S4N](http://s4n.co)" para conocer: 
 
-* Pets vs Cattle.
-* DevOps benefits for your enterprise.
-* Software Pipelines.
-* Two projects where we applied DevOps.
+* Ganado vs mascotas: La visión de DevOps empleada por empresas del Fortune 500
+* Beneficios de la adopción DevOps desde la implementación hasta el despliegue. 
+* Canal de Entrega de Software: integración continua, entrega continua, despliegue continuo, pruebas continuas,
+* Dos casos donde hemos aplicado DevOps tanto en el sector aeronáutico como en el sector financiero.
