@@ -72,6 +72,7 @@ enableGitInfo = false
   phone = "+57 305 7040348"
   skype = "damontic"
   telegram = ""
+  scheduled_meeting_url = "https://calendly.com/damontic/60min"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""

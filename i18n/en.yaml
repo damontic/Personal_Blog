@@ -158,3 +158,8 @@
 
 - id: cookie_learn
   translation: Learn more
+
+# David's Personal Modifications
+
+- id: schedule_meeting
+  translation: Schedule a Meeting
