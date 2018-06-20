@@ -1,16 +1,16 @@
 +++
-title = "Devops Théorique"
-date = 2018-05-27T08:00:00-05:00  # Schedule page publish date.
+title = "Character Encoding Overview"
+date = 2017-01-26T16:00:00-05:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-05-27T08:00:00-05:00
-time_end = 2018-05-27T12:00:00-05:00
+time_start = 2017-01-26T16:00:00-05:00
+time_end = 2017-01-26T17:00:00-05:00
 
 # Abstract and optional shortened version.
-abstract = "Présentation qui présente le point de vue de DevOps/SRE @S4N. Ce travaux fut construit avec mon équipe de DevOps/SRE @S4N: Natalia Parrado et Leonardo Quiñonez."
-abstract_short = "Présentation qui présente le point de vue de DevOps/SRE @S4N."
+abstract = "This talk explains how computers and applications encode characters."
+abstract_short = "This talk explains how computers and applications encode characters."
 
 # Name of event and optional event URL.
 event = ""
@@ -31,11 +31,11 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["DevOps", "SRE", "Continuous Integration", "Continuous Deployment", "Continuous Delivery", "Automation", "Software Pipeline", "Security", "Monitoring", "Infrastructure", "Configuration", "Application", "Deployment", "Infrastructure as Code", "Configuration as Code", "Data as Code", "Software Pipeline"]
+tags = ["ASCII", "UTF", "ISO8859", "Characters", "Encodings", "Unicode", "GNU/Linux"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "http://damontic.github.io/devops_teorico"
+url_slides = "http://damontic.github.io/explaining-encodings"
 url_video = ""
 url_code = ""
 
