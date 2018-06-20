@@ -1,5 +1,5 @@
 +++
-title = "One Year Devops Talk"
+title = "Un año como DevOps"
 date = 2016-11-28T16:00:00-05:00  # Schedule page publish date.
 draft = false
 
