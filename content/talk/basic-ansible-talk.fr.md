@@ -17,7 +17,7 @@ event = ""
 event_url = ""
 
 # Location of event.
-location = ""
+location = "S4N"
 
 # Is this a selected talk? (true/false)
 selected = false

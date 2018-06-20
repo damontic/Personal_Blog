@@ -1,5 +1,5 @@
 +++
-title = "Un an comme Devops"
+title = "Un an comme Devops/SRE"
 date = 2016-11-28T16:00:00-05:00  # Schedule page publish date.
 draft = false
 
