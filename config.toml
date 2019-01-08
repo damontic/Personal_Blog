@@ -72,7 +72,7 @@ enableGitInfo = false
   phone = "+57 305 7040348"
   skype = "damontic"
   telegram = ""
-  scheduled_meeting_url = "https://calendly.com/damontic/60min"
+  appointment_url = "https://calendly.com/damontic/60min"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -234,17 +234,17 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//twitter.com/damontic"
 
   [[params.social]]
     icon = "linkedin"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://co.linkedin.com/in/david-alberto-monta%C3%B1o-fetecua-80112961"
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "//github.com/damontic"
 
 
