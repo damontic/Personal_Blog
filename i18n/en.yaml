@@ -6,6 +6,12 @@
 - id: table_of_contents
   translation: Table of Contents
 
+- id: on_this_page
+  translation: On this page
+
+- id: back_to_top
+  translation: Back to top
+
 # General
 
 - id: related
@@ -68,6 +74,16 @@
 
 - id: education
   translation: Education
+  
+# Accomplishments widget
+
+- id: see_certificate
+  translation: See certificate
+
+# Experience widget
+
+- id: present
+  translation: Present
 
 # Publications widget
 
@@ -87,6 +103,23 @@
 - id: more_talks
   translation: More Talks
 
+# Contact widget
+
+- id: contact_name
+  translation: Name
+
+- id: contact_email
+  translation: Email
+
+- id: contact_message
+  translation: Message
+
+- id: contact_send
+  translation: Send
+
+- id: book_appointment
+  translation: Book an appointment
+
 # Publication/Talk details
 
 - id: abstract
@@ -103,9 +136,6 @@
 
 - id: last_updated
   translation: Last updated on
-
-- id: links
-  translation: Links
 
 - id: event
   translation: Event
@@ -140,6 +170,20 @@
 - id: projects
   translation: Projects
 
+# Search
+
+- id: search
+  translation: Search
+
+- id: search_placeholder
+  translation: Search...
+
+- id: search_results
+  translation: results found
+
+- id: search_no_results
+  translation: No results found
+
 # Error 404
 
 - id: page_not_found
@@ -158,8 +202,3 @@
 
 - id: cookie_learn
   translation: Learn more
-
-# David's Personal Modifications
-
-- id: schedule_meeting
-  translation: Schedule a Meeting
